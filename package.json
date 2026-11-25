@@ -1,0 +1,1 @@
+{"name":"lusean-admin","private":true,"type":"module","scripts":{"dev":"vite","build":"vite build","start":"node server.js"},"dependencies":{"@vitejs/plugin-react":"latest","bcryptjs":"latest","dotenv":"latest","express":"latest","helmet":"latest","jsonwebtoken":"latest","pg":"latest","react":"latest","react-dom":"latest","vite":"latest"},"devDependencies":{}}
